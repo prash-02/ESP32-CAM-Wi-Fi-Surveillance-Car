@@ -22,7 +22,6 @@ A Wi-Fi-enabled surveillance car built using ESP32 and ESP32-CAM modules. The ve
 * ESP32-CAM Module
 * L298N Motor Driver
 * DC Gear Motors
-* Robot Chassis
 * Li-ion Battery Pack
 * Jumper Wires
 * Wi-Fi Network
